@@ -1,4 +1,4 @@
-package com.bank.thebankcrud
+package com.bank.thebankcrud.controller
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
